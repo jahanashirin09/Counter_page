@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-image: url("counter.jpg");
+    background: cover;
+    color: white;
+}
+.header{
+   background-color: black;
+    margin-top: 80px;
+    margin-left: 300px;
+    margin-right:300px;
+    padding:50px;
+    border-radius: 20px;
+    
+}
